@@ -1,4 +1,4 @@
-# 引用在 [filter_remote]下，https://rules-for-qx.sveir.xyz/Rules/Advertising/Hijacking.list, tag=Newmobilelife, enabled=true
+# 引用在 [filter_remote]下，https://github.com/XGithub0/Quantumult-X/raw/main/Newmobilelife.list, tag=Newmobilelife, enabled=true
 # 适用于Quantumult X，以下规则去除 newmobilelife.com 广告，方法使用 Teak 浏览器自带的 Adblock Plus 查得过滤的广告 URL （Shadowrocket 设置 → 隐私中心→ 广告和追踪器）
 host-suffix, anymind360.com, REJECT
 host-suffix, pagead2.googlesyndication.com, REJECT
