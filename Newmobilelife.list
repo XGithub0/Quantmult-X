@@ -13,3 +13,5 @@ host-suffix, www.google-analytics.com, REJECT
 host-suffix, adservice.google.com.hk, REJECT
 # 以上规则去除 newmobilelife.com 公告，规则结尾
 
+# Quantumult 写法 https://github.com/XGithub0/Quantumult-X/raw/main/Newmobilelife.list, tag=Newmobilelife, enabled=true
+# Quantumult 配置文件已经包含上述文件的效果，不需要在添加在 分流中
