@@ -193,9 +193,6 @@ https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.re
 
 [server_local]
 
-https://import.suya.io/?api=78453&key=bba48e8c0058&app=quantumultx, tag=Suya, update-interval=172800, opt-parser=false, enabled=false
-https://host.ssrbox.com/api/v1/client/subscribe?token=f082ce071cc1b6c6beb5fdee9d060428, tag=Ssbox, update-interval=172800, opt-parser=false, enabled=true
-
 
 [server_remote]
 
