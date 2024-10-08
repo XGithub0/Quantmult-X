@@ -276,14 +276,8 @@ https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/ruleset/ASN.Chin
 
 # > 一些比较容易忽视的分流
 host, ad.12306.cn, direct
-host, gg.caixin.com, direct
 host, sdkapp.uve.weibo.com, direct
-host-suffix, ucweb.com, direct
-host-suffix, kuwo.cn, direct
-host, ntb.lanjie100.com, reject
 
-# > 贴吧屏蔽域名dns查询
-ip-cidr, 180.76.76.200/32, reject
 
 # > local
 ip-cidr, 10.0.0.0/8, direct
